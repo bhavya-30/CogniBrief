@@ -6,8 +6,12 @@
 
   
 +Installation
-  1. Install python from https://www.python.org/downloads/. Ensure to select
+  1. Install python from https://www.python.org/downloads/.
   2. Install Visual Studio Code with following extensions:
+
+
+
+
     a. Live Server- Ritwick Dey
     b. Python Debugger (Microsoft)
     c. Python (Microsoft)
