@@ -1,13 +1,10 @@
 # CogniBrief
 
 +Description
-  CogniBrief is used to efficiently extract key insights and information from extensive
-  documents, audio, and video summaries. It caters to users who require rapid and optimized
-  knowledge access, especially when time is a limiting factor. Additionally, CogniBrief
-  provides a research oriented community for users to engage in meaningful discussions and
-  connect with like-minded individuals, fostering a culture of knowledge exchange and
-  scholarly discourse. This platform is designed to enhance the research and learning
-  experience.
+  CogniBrief is used to efficiently extract key insights and information from extensive documents, audio, and video summaries. It caters to users who require rapid and optimized knowledge access, especially when time is a limiting factor. Additionally, CogniBriefprovides a research oriented community for users to engage in meaningful discussions and connect with like-minded individuals, fostering a culture of knowledge exchange andscholarly discourse. This platform is designed to enhance the research and learning experience.
+
+
+  
 +Installation
   1. Install python from https://www.python.org/downloads/. Ensure to select
   2. Install Visual Studio Code with following extensions:
@@ -23,11 +20,20 @@
     f. pip install SpeechRecognition
     g. pip install nltk
 
+
+
+
+
+
 +Authors
   1. Avani Goel
   2. Bhavya Agrawal
   3. Bhoomi Gupta
   4. Gaurangi Garg
+
+
+
+
 +Acknowledgement
   Special thanks to Banasthali Vidyapith for their invaluable mentorship and guidance
   throughout the development of this project. We also extend our gratitude to the project
